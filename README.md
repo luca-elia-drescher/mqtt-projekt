@@ -10,9 +10,9 @@ In diesem Projekt wurde ein ESP8266-Mikrocontroller mit einem Temperatursensor a
 
 ## Inhalt 
 
-- `code`: Quellcode für den ESP8266, den Raspberry Pi und die MQTT-Kommunikation  
-- `docs`: Ausführliche Projektdokumentation mit Beschreibung, Aufbau und Ergebnissen  
-- `images`: Ggf. Bilder der Schaltungen und Aufbauten 
+- `/code`: Quellcode für den ESP8266, den Raspberry Pi und die MQTT-Kommunikation  
+- `/docs`: Ausführliche Projektdokumentation mit Beschreibung, Aufbau und Ergebnissen  
+- `/images`: Ggf. Bilder der Schaltungen und Aufbauten 
 
 ## Mitwirkende
 
