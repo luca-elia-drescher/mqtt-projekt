@@ -2,12 +2,6 @@
 
 In diesem Projekt wurde ein ESP8266-Mikrocontroller mit einem Temperatursensor ausgestattet und über das MQTT-Protokoll mit einem Raspberry Pi verbunden. Die Sensordaten werden dabei in Echtzeit übertragen und auf einem Node-RED Dashboard visualisiert. 
 
-## Hardware
-
-- Raspberry Pi 4 Model B 
-- ESP8266 NodeMCU
-- DHT11 Temperatursensor
-
 ## Inhalt 
 
 - `/code`: Quellcode für den ESP8266, den Raspberry Pi und die MQTT-Kommunikation  
